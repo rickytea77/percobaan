@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/monitoringdeviasi/static/css/main.f855e6bc.css",
-    "main.js": "/monitoringdeviasi/static/js/main.70369a74.js",
-    "static/js/453.5f6549ad.chunk.js": "/monitoringdeviasi/static/js/453.5f6549ad.chunk.js",
-    "static/media/logo.svg": "/monitoringdeviasi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/monitoringdeviasi/index.html",
-    "main.f855e6bc.css.map": "/monitoringdeviasi/static/css/main.f855e6bc.css.map",
-    "main.70369a74.js.map": "/monitoringdeviasi/static/js/main.70369a74.js.map",
-    "453.5f6549ad.chunk.js.map": "/monitoringdeviasi/static/js/453.5f6549ad.chunk.js.map"
+    "main.css": "/percobaan/static/css/main.f855e6bc.css",
+    "main.js": "/percobaan/static/js/main.65b1e737.js",
+    "static/js/453.5f6549ad.chunk.js": "/percobaan/static/js/453.5f6549ad.chunk.js",
+    "static/media/logo.svg": "/percobaan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/percobaan/index.html",
+    "main.f855e6bc.css.map": "/percobaan/static/css/main.f855e6bc.css.map",
+    "main.65b1e737.js.map": "/percobaan/static/js/main.65b1e737.js.map",
+    "453.5f6549ad.chunk.js.map": "/percobaan/static/js/453.5f6549ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.70369a74.js"
+    "static/js/main.65b1e737.js"
   ]
 }
