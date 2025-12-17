@@ -13,16 +13,22 @@ function App() {
   }, []);
 
   const simpanData = () => {
-    if (!nilai) return;
+  if (!nilai) return;
 
-    const newData = [
-      ...data,
-      {
-        kategori,
-        nilai,
-        tanggal: new Date().toLocaleDateString()
-      }
-    ];
+  const newData = [
+    ...data,
+    {
+      kategori,
+      nilai,
+      tanggal: new Date().toLocaleDateString()
+    }
+  ];
+
+  setData(newData);
+  localStorage.setItem("kpiData", JSON.stringify(newData));
+  setNilai("");
+};
+
 
     setData(newData);
     localStorage.setItem("kpiData", JSON.stringify(newData));
